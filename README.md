@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sahil Soni</h1>
 
-<h3 align="center">Aspiring Data Analyst from India</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 ---
 
